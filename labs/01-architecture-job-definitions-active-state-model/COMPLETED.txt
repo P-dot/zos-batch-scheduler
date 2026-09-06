@@ -1,0 +1,20 @@
+LAB 01 — COMPLETED AND VALIDATED
+Architecture, Job Definitions & Active State Model
+
+Validated results:
+- IBMUSER.ZSCH.JCL created as PDS FB/80.
+- IBMUSER.ZSCH.DEF, EXEC, ACTIVE and PARM allocated and cataloged.
+- ALLOC01 steps completed RC=0000.
+- LAB01A valid definition accepted by ZSCHVAL.
+- LAB01B negative definition rejected because OWNER is missing.
+- ZSCHORD created IBMUSER.ZSCH.ACTIVE(A0000001) from LAB01A.
+- Active state recorded as ORDERED.
+- JOBID intentionally remains blank because JES2 submission is not implemented in Lab 01.
+- ZSCHORD rejected invalid LAB01B before active-state creation.
+- Final browse confirmed A0000001 remained unchanged after invalid ORDER attempt.
+
+Lab 01 establishes:
+DEFINITION -> VALIDATION -> ORDER -> ACTIVE INSTANCE
+
+Next:
+Lab 02 — Persistent Order-ID, READY State & JES2 Submission

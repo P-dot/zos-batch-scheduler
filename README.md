@@ -90,4 +90,4 @@ Remote repository currently created as:
 https://github.com/P-dot/zos-batch-scheduler
 ```
 
-The remote repository name contains `bath` while the local directory uses `batch`. Renaming the GitHub repository to `zos-batch-scheduler` is recommended before the project grows, but it is not technically required for Git operation.
+The local working directory and GitHub repository now use the canonical name `zos-batch-scheduler`.

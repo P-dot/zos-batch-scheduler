@@ -87,7 +87,7 @@ C:\Carrera_Ciberseguridad\06_Portfolio_GitHub\zos-batch-scheduler
 Remote repository currently created as:
 
 ```text
-https://github.com/P-dot/zos-bath-scheduler
+https://github.com/P-dot/zos-batch-scheduler
 ```
 
 The remote repository name contains `bath` while the local directory uses `batch`. Renaming the GitHub repository to `zos-batch-scheduler` is recommended before the project grows, but it is not technically required for Git operation.

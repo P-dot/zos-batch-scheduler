@@ -45,19 +45,19 @@ git remote -v
 The currently created GitHub repository is:
 
 ```text
-https://github.com/P-dot/zos-bath-scheduler
+https://github.com/P-dot/zos-batch-scheduler
 ```
 
 If the remote is not configured:
 
 ```bash
-git remote add origin https://github.com/P-dot/zos-bath-scheduler.git
+git remote add origin https://github.com/P-dot/zos-batch-scheduler.git
 ```
 
 If `origin` exists but points elsewhere:
 
 ```bash
-git remote set-url origin https://github.com/P-dot/zos-bath-scheduler.git
+git remote set-url origin https://github.com/P-dot/zos-batch-scheduler.git
 ```
 
 ## Commit and push
@@ -72,7 +72,7 @@ git push -u origin main
 
 ## Optional repository rename
 
-The local directory is `zos-batch-scheduler`, while the current GitHub repository is `zos-bath-scheduler`. If the GitHub repository is renamed to `zos-batch-scheduler`, update the remote:
+The local directory is `zos-batch-scheduler`, while the current GitHub repository is `zos-batch-scheduler`. If the GitHub repository is renamed to `zos-batch-scheduler`, update the remote:
 
 ```bash
 git remote set-url origin https://github.com/P-dot/zos-batch-scheduler.git

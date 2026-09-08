@@ -76,18 +76,16 @@ The project is intentionally built in small, observable steps on a real z/OS lab
 
 - [Lab 01 — Architecture, Job Definitions & Active State Model](labs/01-architecture-job-definitions-active-state-model/README.md)
 
+## Ecosystem integration
+
+The scheduler is the orchestration layer between reusable JCL/JES2 execution mechanics and higher-level application workloads.
+
+See:
+
+[docs/ECOSYSTEM-INTEGRATION.md](docs/ECOSYSTEM-INTEGRATION.md)
+
 ## Repository
 
-Local working directory used for the project:
+GitHub repository:
 
-```text
-C:\Carrera_Ciberseguridad\06_Portfolio_GitHub\zos-batch-scheduler
-```
-
-Remote repository currently created as:
-
-```text
 https://github.com/P-dot/zos-batch-scheduler
-```
-
-The local working directory and GitHub repository now use the canonical name `zos-batch-scheduler`.

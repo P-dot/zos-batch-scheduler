@@ -1,0 +1,1 @@
+PASS - no private IPv4 or MAC-address patterns found in generated text files.

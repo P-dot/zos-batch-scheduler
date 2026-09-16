@@ -1,0 +1,31 @@
+LAB 02 — PARTS 1 AND 2
+
+STATUS: VALIDATED
+
+PART 1
+- Persistent Order-ID generator: PASS
+- SEQ01 persistence: PASS
+- 0000001 -> 0000002: PASS
+- A0000001 preserved: PASS
+- A0000002 created: PASS
+
+PART 2
+- Active instance read: PASS
+- Runtime integrity checks: PASS
+- Eligibility evaluation: PASS
+- ORDERED -> READY: PASS
+- Runtime metadata preserved: PASS
+- READY -> READY rejected: PASS
+
+EXPECTED CURRENT STATE
+- STATE=READY
+- JOBID=
+
+NOT YET IMPLEMENTED
+- JES2 submission
+- SUBMITTED state
+- Persistent JOBID association
+- SDSF execution tracking
+
+NEXT
+Lab 02 Part 3 — READY to JES2 Submission

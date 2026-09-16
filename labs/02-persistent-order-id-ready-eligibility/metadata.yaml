@@ -1,0 +1,34 @@
+lab:
+  historical_id: "labs/02-persistent-order-id-ready-eligibility"
+  title: "Persistent Order-ID and READY Eligibility"
+  status: "VALIDATED - PARTS 1 AND 2"
+
+architecture:
+  primary_domain: "Workload and Batch Engineering"
+  secondary_domains:
+    - "Automation and Modern Operations"
+    - "Integration Engineering"
+  capability: "Scheduler runtime identity and eligibility-state management"
+  lifecycle:
+    - "Operate"
+    - "Automate"
+    - "Integrate"
+  maturity: "M2 - Operational"
+  integration_level: "I1 - Cross-component"
+
+dependencies:
+  - "D1 - Lab 01 scheduler definition and active-state foundation"
+  - "D4 - TSO/E, ISPF, REXX and scheduler-owned PDS libraries"
+
+failure_classification:
+  - "F0 - Expected validation failure for invalid state transition"
+
+relationships:
+  tags:
+    - "REL-SCHED"
+    - "REL-JCL"
+    - "REL-JES2"
+    - "REL-AUTOMATION"
+
+next_capability:
+  - "READY -> JES2 submission"

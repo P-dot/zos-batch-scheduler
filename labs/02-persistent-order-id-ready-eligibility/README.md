@@ -876,3 +876,12 @@ That is the point where the scheduler first moves from active-state control into
   - https://www.ibm.com/support/pages/node/677177
 - z/OS Engineering Laboratory Architecture V2:
   - https://github.com/P-dot/zos-adcd-hercules-engineering-lab/tree/main/docs/architecture/v2
+
+
+---
+### Continue learning
+
+**Previous:** [01-architecture-job-definitions-active-state-model](../01-architecture-job-definitions-active-state-model/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [Choose the next Academy course](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

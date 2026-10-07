@@ -511,3 +511,12 @@ Lab 02 will be the first laboratory in which the scheduler is permitted to cause
 **Lab 01 completed successfully.**
 
 The project now has a functional minimum scheduler core capable of storing metadata, parsing and validating job definitions, rejecting incomplete definitions, ordering a valid definition, and preserving an independent Active Job instance with explicit runtime state.
+
+
+---
+### Continue learning
+
+**Previous:** Course introduction  
+**Course:** [Course home](../../README.md)  
+**Next:** [02-persistent-order-id-ready-eligibility](../02-persistent-order-id-ready-eligibility/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

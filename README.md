@@ -392,3 +392,14 @@ zos-batch-scheduler
 - [JCL Engineering Labs](https://github.com/P-dot/JCL_LABS)
 - [Master z/OS Engineering Laboratory](https://github.com/P-dot/zos-adcd-hercules-engineering-lab)
 - [IBM z/OS Engineering Portfolio](https://github.com/P-dot/P-dot)
+
+
+---
+
+## z/OS Engineering Academy
+
+**Academy role:** Automation School — workload dependencies, eligibility, operational state and restart.
+
+[Start the Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Course Catalog](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md) · [Curriculum Graph](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md) · [Cross-Domain Relationships](https://github.com/P-dot/P-dot/blob/main/docs/RELATIONSHIPS.md)
+
+> Learn the concept → execute the lab → interpret the evidence → understand the subsystem boundary → continue to the next connected course.
